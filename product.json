@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Sumit Gour",
+        "rollno": 12345,
+        "address": "Agra",
+        "classyear": "secondyear"
+    },
+    {
+        "name": "Abhishek Rajput",
+        "rollno": 13245,
+        "address": "Delhi",
+        "classyear": "firstyear"
+    },
+    {
+        "name": "Anshuman Singh",
+        "rollno": 14235,
+        "address": "Bhopal",
+        "classyear": "secondyear"
+    },
+    {
+        "name": "Aman Pal",
+        "rollno": 15234,
+        "address": "Indore",
+        "classyear": "lastyear"
+    }
+]
